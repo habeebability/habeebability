@@ -15,17 +15,12 @@
 [![Language | HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)][html5]
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6)][css3]
 
-[![Framework & Library | Vuejs](https://img.shields.io/badge/Vue-eeeeee?style=for-the-badge&logo=vue&logoColor=61DAFB&labelColor=20232A)][vue]
-[![Framework & Library | Vuex](https://img.shields.io/badge/vuex-eeeeee?style=for-the-badge&logo=vuex&logoColor=764ABC&labelColor=20232A)][vuex]
-
 #### Tools
 
 [![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
 [![Tools | Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
 [![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
-
-[![Tools | Vite](https://img.shields.io/badge/Vite-eeeeee?style=for-the-badge&logo=vite&logoColor=D83B01&labelColor=fefefe)][vite]
 
 ## :memo: GitHub Stats
 
