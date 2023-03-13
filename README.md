@@ -23,7 +23,7 @@
 [![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
 
-## :memo: GitHub Stats
+<!-- ## :memo: GitHub Stats -->
 
 ## :round_pushpin: Reach
 
