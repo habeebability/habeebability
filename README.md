@@ -1,4 +1,4 @@
-# 👨‍💻: Habeeb Awoyemi
+# 👨‍💻 Habeeb Awoyemi
 
 ## :tipping_hand_man: About Me
 
